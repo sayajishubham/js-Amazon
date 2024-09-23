@@ -1,0 +1,649 @@
+{
+  "slider-first": [
+    {
+      "id": "1",
+      "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/Toys/GW/GW-Hero-PC_BBAug23_Soft-toys_with-Apay_Lifestyle_2x._CB597740150_.jpg"
+    },
+    {
+      "id": "2",
+      "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img24hp/urec/hero/Under1499_Tallhero_3000x1200._CB568928188_.jpg"
+    },
+    {
+      "id": "3",
+      "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/Wireless/devjyoti/GW/Uber/Nov/D103625178_DesktopTallHero_3000x1200_V3._CB558389732_.jpg"
+    },
+    {
+      "id": "4",
+      "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/MA2024/GW/August/Unrec/BAU/21Aug/2-1._CB565867124_.jpg"
+    },
+    {
+      "id": "5",
+      "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Lawn_Garden/Ud/2024/September/Dengue/Hero/GW-heros-Pc-8._CB564967377_.jpg"
+    }
+  ],
+  "ads1": [
+    {
+      "image2": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/New/2x/372x232_Home_furnishings_2._SY232_CB555629502_.jpg",
+      "title": "Cushion covers,bedsheets & more",
+      "id": "6c5b"
+    },
+    {
+      "image1": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/New/2x/372x232_Home_decor_1._SY232_CB555629502_.jpg",
+      "title": "Furnitures,vases & more",
+      "id": "76ad"
+    },
+    {
+      "image1": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/New/2x/372x232_Home_storage_1._SY232_CB555629502_.jpg",
+      "title": "Home Storage",
+      "id": "f066"
+    },
+    {
+      "image1": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/New/2x/372x232_Home_lighting_2_-_Copy._SY232_CB555629502_.jpg",
+      "title": "Lightning Solution",
+      "id": "6077"
+    }
+  ],
+  "ads2": [
+    {
+      "image2": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/june/CE/GW/QC/PC/PC_QuadCard_boAt._SY232_CB553870684_.jpg",
+      "title": "Starting at 249 | boat",
+      "id": "440a"
+    },
+    {
+      "image1": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/june/CE/GW/QC/PC/PC_QuadCard_Boult._SY232_CB553870684_.jpg",
+      "title": "Starting at 349 |boult",
+      "id": "b970"
+    },
+    {
+      "image1": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/june/CE/GW/QC/PC/PC_QuadCard_Noise._SY232_CB553870684_.jpg",
+      "title": "Starting at 649 |Noise",
+      "id": "622c"
+    },
+    {
+      "image1": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/june/CE/MSO/PD3/PC_QuadCard_Zeb_1._SY232_CB570220221_.jpg",
+      "title": "Starting at 149 | Zebronics",
+      "id": "2024"
+    }
+  ],
+  "ads3": [
+    {
+      "image2": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-372x232----B08RDL6H79._SY232_CB667322346_.jpg",
+      "title": "Air condition",
+      "id": "f16f"
+    },
+    {
+      "image1": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/B08345R1ZW---372x232._SY232_CB667322346_.jpg",
+      "title": "Refrigerators",
+      "id": "c461"
+    },
+    {
+      "image1": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/B07G5J5FYP._SY232_CB667322346_.jpg",
+      "title": "Microwaves",
+      "id": "c3ea"
+    },
+    {
+      "image1": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B08CPQVLZT._SY232_CB667322346_.jpg",
+      "title": "Washing Machines",
+      "id": "3e1e"
+    }
+  ],
+  "ads4": [
+    {
+      "image2": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PB/March/Bikram/QC_372_All_customer_july_2._SY232_CB567469224_.jpg",
+      "title": "Starting at 149 | Zebronics",
+      "id": "4698"
+    },
+    {
+      "image1": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PB/March/Bikram/QC_372_All_customer_july_3._SY232_CB567469124_.jpg",
+      "title": "Starting at 349 |boult",
+      "id": "8942"
+    },
+    {
+      "image1": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PB/March/Bikram/PC_QC_372_Updated._SY232_CB567468621_.jpg",
+      "title": "Lightning Solution",
+      "id": "3e78"
+    },
+    {
+      "image1": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PB/March/Bikram/QC_372_All_customer_july_1._SY232_CB567469124_.jpg",
+      "title": "Refrigerators",
+      "id": "b7b1"
+    }
+  ],
+  "ads5": [
+    {
+      "image2": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PB/March/Bikram/PC_QC_HOME_SIZE_372_2._SY232_CB567468220_.jpg",
+      "title": "Home Storage",
+      "id": "6ae8"
+    },
+    {
+      "image1": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PB/March/Bikram/PC_QC_HOME_SIZE_372_3._SY232_CB567468220_.jpg",
+      "title": "Starting at 349 |boult",
+      "id": "8665"
+    },
+    {
+      "image1": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PB/March/Bikram/PC_QC_HOME_SIZE_372_4._SY232_CB567468220_.jpg",
+      "title": "Cushion covers,bedsheets & more",
+      "id": "4718"
+    },
+    {
+      "image1": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PB/March/Bikram/PC_QC_HOME_SIZE_372_1._SY232_CB567468220_.jpg",
+      "title": "Home Storage",
+      "id": "bd82"
+    }
+  ],
+  "ads6": [
+    {
+      "image2": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PC_WF/WF1-372-232._SY232_CB636048992_.jpg",
+      "title": "Starting at 649 |Noise",
+      "id": "f59d"
+    },
+    {
+      "image1": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PC_WF/WF2-372-232._SY232_CB636048992_.jpg",
+      "title": "Starting at 349 |boult",
+      "id": "ecb1"
+    },
+    {
+      "image1": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PC_WF/WF4-372-232._SY232_CB636048992_.jpg",
+      "title": "Cushion covers,bedsheets & more",
+      "id": "78b7"
+    },
+    {
+      "image1": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PC_WF/WF3-372-232._SY232_CB636048992_.jpg",
+      "title": "Starting at 249 | boat",
+      "id": "e77d"
+    }
+  ],
+  "ads7": [
+    {
+      "image2": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Glasscare2x._SY232_CB410830552_.jpg",
+      "title": "Furnitures,vases & more",
+      "id": "460e"
+    },
+    {
+      "image1": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Rim_tyrecare2x._SY232_CB410830552_.jpg",
+      "title": "Washing Machines",
+      "id": "964c"
+    },
+    {
+      "image1": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Vega_helmet_372x232._SY232_CB405083904_.jpg",
+      "title": "Refrigerators",
+      "id": "0f6a"
+    },
+    {
+      "image1": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Vaccum2x._SY232_CB410830555_.jpg",
+      "title": "Home Storage",
+      "id": "a625"
+    }
+  ],
+  "ads8": [
+    {
+      "image2": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Biss/2018/QC/Tools2x._SY232_CB424026090_.jpg",
+      "title": "Starting at 249 | boat",
+      "id": "85b9"
+    },
+    {
+      "image1": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Biss/2021/BAU_GW_Graphics/PCQC/372X2322._SY232_CB643952553_.jpg",
+      "title": "Starting at 649 |Noise",
+      "id": "49e5"
+    },
+    {
+      "image1": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Biss/2021/BAU_GW_Graphics/PCQC/372X2321._SY232_CB643952553_.jpg",
+      "title": "Home Storage",
+      "id": "2577"
+    },
+    {
+      "image1": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Biss/2018/QC/med2x._SY232_CB424026091_.jpg",
+      "title": "Washing Machines",
+      "id": "2904"
+    }
+  ],
+  "ads9": [
+    {
+      "image": "https://m.media-amazon.com/images/I/713dTg-GyuL._AC_SY340_.jpg",
+      "id": "8ee7"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/917QsNKPD0L._AC_SY340_.jpg",
+      "id": "6729"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/81AduJALuyL._AC_SY340_.jpg",
+      "id": "59c1"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/81pfN3J39tL._AC_SY340_.jpg",
+      "id": "2a2d"
+    }
+  ],
+  "ads10": [
+    {
+      "image": "https://m.media-amazon.com/images/I/71useTsJFnL._AC_SY340_.jpg",
+      "id": "067e"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/51r6QjsR26L._AC_SY340_.jpg",
+      "id": "bddf"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/91hkVz3NnAL._AC_SY340_.jpg",
+      "id": "1624"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/41OgB9jk9yL._AC_SY340_.jpg",
+      "id": "53a3"
+    }
+  ],
+  "second-slider": [
+    {
+      "image": "https://m.media-amazon.com/images/I/31GEH239AIL._AC_SY400_.jpg",
+      "id": "73ac"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/31fMSsn2cpL._AC_SY400_.jpg",
+      "id": "7755"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/61r7rylEOWL._AC_SY400_.jpg",
+      "id": "6f75"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/617VVyhYS9L._AC_SY400_.jpg",
+      "id": "ccba"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/31QKYTH4pTL._AC_SY400_.jpg",
+      "id": "bc81"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/512JQ+6XadL._AC_SY400_.jpg",
+      "id": "6e29"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/71XjW8+j9ML._AC_SY400_.jpg",
+      "id": "7c16"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/81ThWNfvDWL._AC_SY400_.jpg",
+      "id": "c3d2"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/31PFswx5fEL._AC_SY400_.jpg",
+      "id": "c50c"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/71wKwBOvdJL._AC_SY400_.jpg",
+      "id": "7985"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/81Mfttzv20L._AC_SY400_.jpg",
+      "id": "6635"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/71VlbIEklAL._AC_SY400_.jpg",
+      "id": "4afb"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/71ypKuE83PL._AC_SY400_.jpg",
+      "id": "0af7"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/714iYWKtY3L._AC_SY400_.jpg",
+      "id": "4e71"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/71TfK6WMv+L._AC_SY400_.jpg",
+      "id": "4892"
+    }
+  ],
+  "Third-slider": [
+    {
+      "image": "https://m.media-amazon.com/images/I/610InQb9rTL._AC_SY400_.jpg",
+      "id": "177c"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/81TRdxk1wnL._AC_SY400_.jpg",
+      "id": "ae1c"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/51NSC2qvOxL._AC_SY400_.jpg",
+      "id": "9df0"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/71x4rLhMkML._AC_SY400_.jpg",
+      "id": "b37b"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/61j9jJhrStL._AC_SY400_.jpg",
+      "id": "36dc"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/6149T8j5wmL._AC_SY400_.jpg",
+      "id": "300d"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/81MfjxIbRsL._AC_SY400_.jpg",
+      "id": "391f"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/61cTtzrqehL._AC_SY400_.jpg",
+      "id": "7edd"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/61cTtzrqehL._AC_SY400_.jpg",
+      "id": "13b4"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/61cTtzrqehL._AC_SY400_.jpg",
+      "id": "1e10"
+    }
+  ],
+  "products1": [
+    {
+      "title": "iQOO Z9s 5G (Onyx Green, 8GB RAM, 128GB Storage) ",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41tS3gyOW1L._SX160_QL100_AC_SCLZZZZZZZ_.jpg",
+      "price": "25,999.00",
+      "new_price": "19,998.00",
+      "rating": "5.0 out of 5 stars",
+      "id": "375b"
+    },
+    {
+      "title": "OnePlus Nord CE4 Lite 5G (Super Silver, 8GB RAM, 128GB Storage)",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31hcJbP0BuL._SX160_QL100_AC_SCLZZZZZZZ_.jpg",
+      "price": "20,999.00",
+      "new_price": "19,998.00",
+      "rating": "5.0 out of 5 stars",
+      "id": "e6ba"
+    },
+    {
+      "title": "OnePlus Nord CE 3 5G (Aqua Surge, 8GB RAM, 128GB Storage)",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41TmlehQnaL._SX160_QL100_AC_SCLZZZZZZZ_.jpg",
+      "price": "26,999.00",
+      "new_price": "18,998.00",
+      "rating": "5.0 out of 5 stars",
+      "id": "c2cd"
+    },
+    {
+      "title": "Redmi Note 13 5G (Chromatic Purple, 6GB RAM, 128GB Storage)",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41gF1pn3wPL._SX160_QL100_AC_SCLZZZZZZZ_.jpg",
+      "price": "20,999.00",
+      "new_price": "15,617.00",
+      "rating": "5.0 out of 5 stars",
+      "id": "acf9"
+    },
+    {
+      "title": "realme NARZO 70 Pro 5G (Glass Green, 8GB RAM,256GB Storage)",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41nRYrr3FGL._SX160_QL100_AC_SCLZZZZZZZ_.jpg",
+      "price": "26,999.00",
+      "new_price": "18,998.00",
+      "rating": "5.0 out of 5 stars",
+      "id": "2220"
+    },
+    {
+      "title": "realme NARZO 70 5G（Ice Blue,6GB RAM, 128GB Storage)",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41PQiH7ZOSL._SX160_QL100_AC_SCLZZZZZZZ_.jpg",
+      "price": "19,999.00",
+      "new_price": "15,999.00",
+      "rating": "5.0 out of 5 stars",
+      "id": "2e0b"
+    },
+    {
+      "title": "realme 12 5G (Woodland Green, 8GB RAM 128 GB Storage)",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41gBO+6AB9L._SX160_QL100_AC_SCLZZZZZZZ_.jpg",
+      "price": "20,999.00",
+      "new_price": "15,499.00",
+      "rating": "5.0 out of 5 stars",
+      "id": "c167",
+      "detail": "Camera: 108 MP Main Camera with EIS; 2MP Depth-Assist Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP ,Camera: 108 MP Main Camera with EIS; 2MP Depth-Assist Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP,Display: 6.72 Inches; 120 Hz Adaptive refresh rate; FHD+(1080×2400), Colors: 16.7 Million colors, 391 ppi, Aspect Ratio: 20:9, Brightness: 550 nits (typical), 680 nits (HBM),Processor: Qualcomm Snapdragon 695 5G,Battery & Charging: 5000 mAh with 67W SUPERVOOC Endurance Edition"
+    },
+    {
+      "title": "Samsung Galaxy M15 5G (Celestial Blue,6GB RAM,128GB Storage)",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41Fkd9aIodL._SX160_QL100_AC_SCLZZZZZZZ_.jpg",
+      "price": "16,999.00",
+      "new_price": "14,498.00",
+      "rating": "5.0 out of 5 stars",
+      "id": "3891",
+      "detail": "Camera: 108 MP Main Camera with EIS; 2MP Depth-Assist Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP ,Camera: 108 MP Main Camera with EIS; 2MP Depth-Assist Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP,Display: 6.72 Inches; 120 Hz Adaptive refresh rate; FHD+(1080×2400), Colors: 16.7 Million colors, 391 ppi, Aspect Ratio: 20:9, Brightness: 550 nits (typical), 680 nits (HBM),Processor: Qualcomm Snapdragon 695 5G,Battery & Charging: 5000 mAh with 67W SUPERVOOC Endurance Edition"
+    },
+    {
+      "title": "Samsung Galaxy F15 5G (Jazzy Green, 6GB RAM, 128 GB Storage)",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/4103b-jg1+L._SX160_QL100_AC_SCLZZZZZZZ_.jpg",
+      "price": "16,999.00",
+      "new_price": "13,343.00",
+      "rating": "5.0 out of 5 stars",
+      "id": "834f",
+      "detail": "Camera: 108 MP Main Camera with EIS; 2MP Depth-Assist Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP ,Camera: 108 MP Main Camera with EIS; 2MP Depth-Assist Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP,Display: 6.72 Inches; 120 Hz Adaptive refresh rate; FHD+(1080×2400), Colors: 16.7 Million colors, 391 ppi, Aspect Ratio: 20:9, Brightness: 550 nits (typical), 680 nits (HBM),Processor: Qualcomm Snapdragon 695 5G,Battery & Charging: 5000 mAh with 67W SUPERVOOC Endurance Edition"
+    },
+    {
+      "title": "iQOO Z7 Pro 5G (Blue Lagoon, 8GB RAM, 256GB Storage) ",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41yAce7gd4L._SX160_QL100_AC_SCLZZZZZZZ_.jpg",
+      "price": "16,999.00",
+      "new_price": "13,343.00",
+      "rating": "5.0 out of 5 stars",
+      "id": "39e6",
+      "detail": "Camera: 108 MP Main Camera with EIS; 2MP Depth-Assist Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP ,Camera: 108 MP Main Camera with EIS; 2MP Depth-Assist Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP,Display: 6.72 Inches; 120 Hz Adaptive refresh rate; FHD+(1080×2400), Colors: 16.7 Million colors, 391 ppi, Aspect Ratio: 20:9, Brightness: 550 nits (typical), 680 nits (HBM),Processor: Qualcomm Snapdragon 695 5G,Battery & Charging: 5000 mAh with 67W SUPERVOOC Endurance Edition"
+    },
+    {
+      "title": "POCO X6 5G (Snowstorm White, 8 GB RAM 256 GB Storage)",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41yC+Hnz6UL._SX160_QL100_AC_SCLZZZZZZZ_.jpg",
+      "price": "24,999.00",
+      "new_price": "18,998.00",
+      "rating": "5.0 out of 5 stars",
+      "id": "a63d",
+      "detail": "Camera: 108 MP Main Camera with EIS; 2MP Depth-Assist Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP ,Camera: 108 MP Main Camera with EIS; 2MP Depth-Assist Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP,Display: 6.72 Inches; 120 Hz Adaptive refresh rate; FHD+(1080×2400), Colors: 16.7 Million colors, 391 ppi, Aspect Ratio: 20:9, Brightness: 550 nits (typical), 680 nits (HBM),Processor: Qualcomm Snapdragon 695 5G,Battery & Charging: 5000 mAh with 67W SUPERVOOC Endurance Edition"
+    },
+    {
+      "title": "POCO X6 Neo 5G (Martian Orange, 8GB RAM, 128GB Storage)",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41Fd7hspX9L._SX160_QL100_AC_SCLZZZZZZZ_.jpg",
+      "price": "19,999.00",
+      "new_price": "13,999.00",
+      "id": "c024"
+    },
+    {
+      "title": "Decazone Macrame Indoor Wall Hanging Shelf Chic Decor Wood",
+      "price": "326.00",
+      "new_price": "899.00",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51W9kPpQxKL._SX160_QL100_AC_SCLZZZZZZZ_.jpg",
+      "id": "cfbc",
+      "detail": "Camera: 108 MP Main Camera with EIS; 2MP Depth-Assist Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP ,Camera: 108 MP Main Camera with EIS; 2MP Depth-Assist Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP,Display: 6.72 Inches; 120 Hz Adaptive refresh rate; FHD+(1080×2400), Colors: 16.7 Million colors, 391 ppi, Aspect Ratio: 20:9, Brightness: 550 nits (typical), 680 nits (HBM),Processor: Qualcomm Snapdragon 695 5G,Battery & Charging: 5000 mAh with 67W SUPERVOOC Endurance Edition"
+    },
+    {
+      "title": "Pure Source India Ceramic Clay Candle Operated Aroma Burner (Black; 9 Cm)",
+      "price": "190.00",
+      "new_price": "399.00",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51xPs8TDcjL._SX160_QL100_AC_SCLZZZZZZZ_.jpg",
+      "rating": "5.0 out of 5 stars",
+      "id": "53db",
+      "detail": "Camera: 108 MP Main Camera with EIS; 2MP Depth-Assist Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP ,Camera: 108 MP Main Camera with EIS; 2MP Depth-Assist Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP,Display: 6.72 Inches; 120 Hz Adaptive refresh rate; FHD+(1080×2400), Colors: 16.7 Million colors, 391 ppi, Aspect Ratio: 20:9, Brightness: 550 nits (typical), 680 nits (HBM),Processor: Qualcomm Snapdragon 695 5G,Battery & Charging: 5000 mAh with 67W SUPERVOOC Endurance Edition"
+    },
+    {
+      "title": "Fan Cleaning Mop UCRAVO Microfiber Duster with Extension",
+      "price": "297.00",
+      "new_price": "399.00",
+      "rating": "5.0 out of 5 stars",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41jeFSSC9gL._SX160_QL100_AC_SCLZZZZZZZ_.jpg",
+      "id": "dd8f",
+      "detail": "Camera: 108 MP Main Camera with EIS; 2MP Depth-Assist Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP ,Camera: 108 MP Main Camera with EIS; 2MP Depth-Assist Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP,Display: 6.72 Inches; 120 Hz Adaptive refresh rate; FHD+(1080×2400), Colors: 16.7 Million colors, 391 ppi, Aspect Ratio: 20:9, Brightness: 550 nits (typical), 680 nits (HBM),Processor: Qualcomm Snapdragon 695 5G,Battery & Charging: 5000 mAh with 67W SUPERVOOC Endurance Edition"
+    },
+    {
+      "title": "Cello Kleeno Compacto Spin Mop with 2 Refill",
+      "price": "739.00",
+      "new_price": "1,300.00",
+      "rating": "5.0 out of 5 stars",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41n0xvustGL._SX160_QL100_AC_SCLZZZZZZZ_.jpg",
+      "id": "10f2",
+      "detail": "Camera: 108 MP Main Camera with EIS; 2MP Depth-Assist Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP ,Camera: 108 MP Main Camera with EIS; 2MP Depth-Assist Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP,Display: 6.72 Inches; 120 Hz Adaptive refresh rate; FHD+(1080×2400), Colors: 16.7 Million colors, 391 ppi, Aspect Ratio: 20:9, Brightness: 550 nits (typical), 680 nits (HBM),Processor: Qualcomm Snapdragon 695 5G,Battery & Charging: 5000 mAh with 67W SUPERVOOC Endurance Edition"
+    },
+    {
+      "title": "Oslen Multipurpose Bathroom/Kitchen Corner Storage Organizer",
+      "price": "249.00",
+      "new_price": "999.00",
+      "rating": "5.0 out of 5 stars",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/511jsE2a9PL._SX160_QL100_AC_SCLZZZZZZZ_.jpg",
+      "id": "0c4c",
+      "detail": "Camera: 108 MP Main Camera with EIS; 2MP Depth-Assist Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP ,Camera: 108 MP Main Camera with EIS; 2MP Depth-Assist Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP,Display: 6.72 Inches; 120 Hz Adaptive refresh rate; FHD+(1080×2400), Colors: 16.7 Million colors, 391 ppi, Aspect Ratio: 20:9, Brightness: 550 nits (typical), 680 nits (HBM),Processor: Qualcomm Snapdragon 695 5G,Battery & Charging: 5000 mAh with 67W SUPERVOOC Endurance Edition"
+    },
+    {
+      "title": "DHRUSIMI 360 Degree Water Swivel Faucet,Tap Aerator Swivel",
+      "price": "299.00",
+      "new_price": "599.00",
+      "rating": "5.0 out of 5 stars",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41gwtIPHPgL._SX160_QL100_AC_SCLZZZZZZZ_.jpg",
+      "id": "ecab",
+      "detail": "Camera: 108 MP Main Camera with EIS; 2MP Depth-Assist Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP ,Camera: 108 MP Main Camera with EIS; 2MP Depth-Assist Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP,Display: 6.72 Inches; 120 Hz Adaptive refresh rate; FHD+(1080×2400), Colors: 16.7 Million colors, 391 ppi, Aspect Ratio: 20:9, Brightness: 550 nits (typical), 680 nits (HBM),Processor: Qualcomm Snapdragon 695 5G,Battery & Charging: 5000 mAh with 67W SUPERVOOC Endurance Edition"
+    },
+    {
+      "title": "Nyarra Wall Mounted Self Adhesive Magic Sticker Towel Napkin ]",
+      "price": "436.00",
+      "new_price": "999.00",
+      "rating": "5.0 out of 5 stars",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41v2j76YKZL._SX160_QL100_AC_SCLZZZZZZZ_.jpg",
+      "id": "74fa",
+      "detail": "Camera: 108 MP Main Camera with EIS; 2MP Depth-Assist Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP ,Camera: 108 MP Main Camera with EIS; 2MP Depth-Assist Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP,Display: 6.72 Inches; 120 Hz Adaptive refresh rate; FHD+(1080×2400), Colors: 16.7 Million colors, 391 ppi, Aspect Ratio: 20:9, Brightness: 550 nits (typical), 680 nits (HBM),Processor: Qualcomm Snapdragon 695 5G,Battery & Charging: 5000 mAh with 67W SUPERVOOC Endurance Edition"
+    },
+    {
+      "title": "ServDharm Brass Incense Burner Peacock Tortoise Dhoop Dani Dhuni)",
+      "price": "1,089.00",
+      "new_price": "1,999.00",
+      "rating": "5.0 out of 5 stars",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51-T7Dt0lHL._SX160_QL100_AC_SCLZZZZZZZ_.jpg",
+      "id": "c307",
+      "detail": "Camera: 108 MP Main Camera with EIS; 2MP Depth-Assist Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP ,Camera: 108 MP Main Camera with EIS; 2MP Depth-Assist Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP,Display: 6.72 Inches; 120 Hz Adaptive refresh rate; FHD+(1080×2400), Colors: 16.7 Million colors, 391 ppi, Aspect Ratio: 20:9, Brightness: 550 nits (typical), 680 nits (HBM),Processor: Qualcomm Snapdragon 695 5G,Battery & Charging: 5000 mAh with 67W SUPERVOOC Endurance Edition"
+    },
+    {
+      "title": "UHUD CRAFTS Beautiful Antique Wooden Fold-able Side Table/",
+      "price": "399.00",
+      "new_price": "1,599.00",
+      "rating": "5.0 out of 5 stars",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31NJkTq39ZL._SX160_QL100_AC_SCLZZZZZZZ_.jpg",
+      "id": "9133",
+      "detail": "Camera: 108 MP Main Camera with EIS; 2MP Depth-Assist Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP ,Camera: 108 MP Main Camera with EIS; 2MP Depth-Assist Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP,Display: 6.72 Inches; 120 Hz Adaptive refresh rate; FHD+(1080×2400), Colors: 16.7 Million colors, 391 ppi, Aspect Ratio: 20:9, Brightness: 550 nits (typical), 680 nits (HBM),Processor: Qualcomm Snapdragon 695 5G,Battery & Charging: 5000 mAh with 67W SUPERVOOC Endurance Edition"
+    },
+    {
+      "title": "RITUALISTIC Oriental Blooms Wall Plates- Set of 5 | Wall Arts",
+      "price": "2,799.00",
+      "new_price": "5,499.00",
+      "rating": "5.0 out of 5 stars",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51MLADg77bL._SX160_QL100_AC_SCLZZZZZZZ_.jpg",
+      "id": "2afc",
+      "detail": "Camera: 108 MP Main Camera with EIS; 2MP Depth-Assist Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP ,Camera: 108 MP Main Camera with EIS; 2MP Depth-Assist Lens and 2MP Macro Lens; Front (Selfie) Camera: 16MP,Display: 6.72 Inches; 120 Hz Adaptive refresh rate; FHD+(1080×2400), Colors: 16.7 Million colors, 391 ppi, Aspect Ratio: 20:9, Brightness: 550 nits (typical), 680 nits (HBM),Processor: Qualcomm Snapdragon 695 5G,Battery & Charging: 5000 mAh with 67W SUPERVOOC Endurance Edition"
+    }
+  ],
+  "products2": [
+    [
+      {
+        "title": "Samsung Galaxy M14 4G (Arctic Blue, 4GB, 64GB) | 50MP Triple Cam | 5000mAh Battery | Snapdragon 680 Processor | 2 Gen. OS Upgrade & 4 Year Security Update | 8GB RAM with RAM Plus | without Charger",
+        "rating": "5.0 out of 5 stars",
+        "new_price": "₹8,290",
+        "price": "₹7,489",
+        "details": "Refurbished",
+        "image": "https://m.media-amazon.com/images/I/81juPhKSZJL._AC_UL320_.jpg"
+      },
+      {
+        "title": "Samsung Galaxy S21 FE 5G (Graphite, 8GB, 128GB Storage)",
+        "rating": "3.3 out of 5 stars",
+        "new_price": "₹27,490",
+        "price": "₹23,299",
+        "details": "Refurbished",
+        "image": "https://m.media-amazon.com/images/I/81cHpJNr07L._AC_UL320_.jpg"
+      },
+      {
+        "title": "Samsung Galaxy Z Fold5 5G (ICY Blue, 12GB RAM, 256GB Storage)",
+        "rating": "2.7 out of 5 stars",
+        "new_price": "₹1,59,999",
+        "price": "₹99,999",
+        "details": "Refurbished",
+        "image": "https://m.media-amazon.com/images/I/71XwXWxa6QL._AC_UL320_.jpg"
+      },
+      {
+        "title": "Samsung Galaxy Z Flip5 5G (Mint, 8GB RAM, 256GB Storage)",
+        "rating": "2.7 out of 5 stars",
+        "new_price": "₹1,02,999",
+        "price": "₹57,998",
+        "details": "Refurbished",
+        "image": "https://m.media-amazon.com/images/I/61Tl1z+Hn0L._AC_UL320_.jpg"
+      },
+      {
+        "title": "Samsung Galaxy S20 FE (Cloud Navy, 8GB RAM, 128GB Storage)",
+        "rating": "4.2 out of 5 stars",
+        "new_price": "₹28,940",
+        "price": "₹20,700",
+        "details": "Refurbished",
+        "image": "https://m.media-amazon.com/images/I/81vDZyJQ-4L._AC_UL320_.jpg"
+      },
+      {
+        "title": "SAMSUNG Galaxy F23 5G (Aqua Blue, 6GB RAM 128GB Storage)",
+        "rating": "3.6 out of 5 stars",
+        "new_price": "₹23,999",
+        "price": "₹14,500",
+        "details": "Refurbished",
+        "image": "https://m.media-amazon.com/images/I/41QDZYBDoZL._AC_UL320_.jpg"
+      },
+      {
+        "title": "Samsung Galaxy S21 FE 5G (Olive, 8GB, 128GB Storage)",
+        "rating": "3.9 out of 5 stars",
+        "new_price": "₹27,450",
+        "price": "₹24,999",
+        "details": "Refurbished",
+        "image": "https://m.media-amazon.com/images/I/817wzcDRQAL._AC_UL320_.jpg"
+      },
+      {
+        "title": "Samsung Galaxy S22 Ultra 5G (Phantom Black, 12GB, 256GB Storage) with No Cost EMI/Additional Exchange Offers",
+        "rating": "3.8 out of 5 stars",
+        "new_price": "₹1,31,999",
+        "price": "₹74,999",
+        "details": "Refurbished",
+        "image": "https://m.media-amazon.com/images/I/71Ntz1Yy4kL._AC_UL320_.jpg"
+      },
+      {
+        "title": "Samsung Galaxy A34 5G (Awesome Graphite, 8GB, 128GB Storage) | 48 MP No Shake Cam (OIS) | IP67 | Gorilla Glass 5 | Voice Focus | Travel Adapter to be Purchased Separately",
+        "rating": "3.4 out of 5 stars",
+        "new_price": "₹35,498",
+        "price": "₹18,999",
+        "details": "Refurbished",
+        "image": "https://m.media-amazon.com/images/I/71o1csyQILL._AC_UL320_.jpg"
+      },
+      {
+        "title": "(Refurbished) Samsung Galaxy A54 5G (Awesome Graphite, 8GB, 256GB Storage)",
+        "rating": "3.7 out of 5 stars",
+        "new price": "₹23,998",
+        "price": "₹45,999",
+        "details": "50 MP No Shake Cam (OIS) | IP67 | Gorilla Glass 5 | Voice Focus | Without Charger",
+        "image": "https://m.media-amazon.com/images/I/71DjLEgCUYL._AC_UL320_.jpg"
+      },
+      {
+        "title": "(Refurbished) SAMSUNG Galaxy F23 5G (Aqua Blue, 4GB RAM 128GB Storage)",
+        "rating": "3.4 out of 5 stars",
+        "new price": "₹12,990",
+        "price": "₹22,999",
+        "details": "",
+        "image": "https://m.media-amazon.com/images/I/517nD27HtPL._AC_UL320_.jpg"
+      }
+    ]
+  ],
+  "login": [
+    {
+      "id": "8f8c",
+      "name": "shubahm",
+      "emailOrMobile": "9725747888",
+      "password": "bckajbjbv"
+    },
+    {
+      "id": "966b",
+      "name": "deepak",
+      "emailOrMobile": "8358855548",
+      "password": "gyfyjgajuf87"
+    },
+    {
+      "id": "93c5",
+      "name": "roshan",
+      "emailOrMobile": "123456789",
+      "password": "sgfsxfdxng"
+    },
+    {
+      "id": "e06a",
+      "name": "hgdthdhdt",
+      "emailOrMobile": "12313434",
+      "password": "7\\788782"
+    }
+  ]
+}

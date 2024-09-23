@@ -1,0 +1,83 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="./login.css">
+</head>
+
+<body>
+    <a href="/"><img class="logo" src="./assets/amazon_logo_dark.png" width="100px" alt=""></a>
+    <div class="login-container">
+        <h1 class="login-title">Sign up</h1>
+        <h5 class="input-lable">Your name</h5>
+        <input type="text" placeholder="First and last name">
+        <h5 class="input-lable">Mobile number or email</h5>
+        <input type="text">
+        <h5 class="input-lable">Password</h5>
+        <input type="password" placeholder="At least 6 characters">
+        <button>Continue</button>
+        <p class="login-condition">By continuing, you agree to Amazon's <span>Conditions of Use</span> and <span>Privacy
+                Notice.</span></p>
+        <p class="login-help">&#9656<span>Need help</span></p>
+        <hr>
+        <h4>Buying for work?</h4>
+        <p class="login-business"><span>Shop on Amazon Business</span></p>
+    </div>
+    <div class="login-section-text">
+        <hr>
+        <p>Have a account?</p>
+        <hr>
+    </div>
+    <a href="./login.html"><button class="login-signup-btn">Login with Amazon account</button></a>
+    <footer>
+        <div class="footer-links">
+            <a href="#"> Conditions of Use </a>
+            <a href="#"> Privacy Notice </a>
+            <a href="#"> Help </a>
+        </div>
+        <p class="footer-copyright">
+            © 1996-2024, Amazon.com, Inc. or its
+        </p>
+    </footer>
+
+    <script>
+        const signUpButton = document.querySelector('button');
+        const loginLink = document.querySelector('.login-signup-btn');
+
+        signUpButton.addEventListener('click', (e) => {
+            e.preventDefault();
+            const name = document.querySelectorAll('input')[0].value;
+            const emailOrMobile = document.querySelectorAll('input')[1].value;
+            const password = document.querySelectorAll('input')[2].value;
+
+            if (name === '' || emailOrMobile === '' || password === '') {
+                alert('Please fill in all fields');
+            } else {
+                const userData = {
+                    "name": name,
+                    "emailOrMobile": emailOrMobile,
+                    "password": password
+                };
+
+                console.log('Sign up data:', userData);
+
+                fetch('http://localhost:3000/login', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(userData)
+                })
+                    .then(response => response.json())
+                    .then(data => console.log(data))
+                    .catch(error => console.error('Error:', error));
+
+                loginLink.click();
+            }
+        })
+    </script>
+</body>
+
+</html>
